@@ -170,9 +170,9 @@ When a player character receives damage from an enemy, they will roll the die as
 
 |Armor Tier| Example Armor| Damage Reduction Die|
 |:---:|:---|:---:|
-|Tier 1| Leather Armor, Padded Armor| -d4|
-|Tier 2| Chainmail, Scale Mail| -d6 |
-|Tier 3| Full Plate, Plate Armor| -d8|
+|Tier 1| Leather Armor, Padded Armor| -d2|
+|Tier 2| Chainmail, Scale Mail| -d4 |
+|Tier 3| Full Plate, Plate Armor| -d6|
 
 If armor takes critical damage, roll the corresponding damage reduction and then decrease its tier down to the next die.
 
